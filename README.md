@@ -1,5 +1,4 @@
-
-##Hi, I'm Beyza. I'm interested in Data Science and Artificial Intelligence. But you'll see my repos on different fields on my profile. Because why not? 
+Hi, I'm Beyza. I'm interested in Data Science and Artificial Intelligence. But you'll see my repos on different fields on my profile. Because why not? 
 <!--
 **byznero/byznero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
